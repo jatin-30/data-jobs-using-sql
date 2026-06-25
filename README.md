@@ -53,13 +53,13 @@ Premium salaries were largely offered by multinational organizations.
 📈 Most In-Demand Skills:
 
 For Data Engineering roles, the market strongly favored the following skills displayed in the bar chart.
-![visualization1](assets\img2.png)
+![visualization1](assets/img2.png)
 These technologies formed the foundation of modern data infrastructure roles.
 
 💵 Highest Paying Skills:
 
 The best-paying Data Analyst skills extended beyond traditional analytics tools.
-![visualization2](assets\img1.png)
+![visualization2](assets/img1.png)
 This suggests that analysts with engineering-oriented skills can command significantly higher salaries.
 
 🚀 Optimal Skills to Learn:
